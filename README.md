@@ -1,6 +1,3 @@
-Below is a sample **README.md** file you can use as a starting point for your Email Spam Classifier project. You can adjust sections such as installation steps, dataset details, and performance metrics as needed.
-
-```md
 # Email Spam Classifier
 
 A machine learning project to classify emails into spam and non-spam categories. This project utilizes various text preprocessing techniques and machine learning algorithms to accurately filter out unwanted emails.
