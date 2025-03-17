@@ -31,7 +31,7 @@ Email spam is a common problem that can clutter inboxes and pose security risks.
 ## Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your_username/email-spam-classifier.git
+git clone https://github.com/adilshamim8/email-spam-classifier.git
 cd email-spam-classifier
 ```
 
